@@ -129,7 +129,7 @@ fun DogIcon(
         // Content Description is not needed here - image is decorative, and setting a null content
         // description allows accessibility services to skip this element during navigation.
 
-        contentDescription = "ahmadBorsh"
+        contentDescription = null
     )
 }
 
